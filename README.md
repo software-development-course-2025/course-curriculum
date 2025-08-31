@@ -42,7 +42,7 @@ Welcome to the Software Development course!
     - [Week 8 Final Assignment](https://github.com/software-development-course-2025/exam-webdev-final)
     - [Extra Assignment](https://github.com/software-development-course-2025/exam-webdev-extra)
 
-- ### [AI Safari Camps](https://github.com/software-development-course-2025/ai-safari)
+- ### [AI Safari Camps](https://software-development-course-2025.github.io/advanced-ai-safari-camps/)
     - [Module 1 Assignment](https://github.com/software-development-course-2025/exam-ai-module-1)
     - [Module 3 Final Assignment](https://github.com/software-development-course-2025/exam-ai-module-3-final)
 
